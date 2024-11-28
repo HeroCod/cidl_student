@@ -1,0 +1,17 @@
+[project]
+name = "cidl_student"
+version = "0.1.0"
+description = "A Python project"
+dependencies = []
+[[project.authors]]
+name = "herocod"
+
+[build-system]
+requires = [ "setuptools >= 61.0",]
+build-backend = "setuptools.build_meta"
+
+[project.license]
+file = "LICENSE"
+
+[tool.setuptools.package-dir]
+cidl_student = "cidl_student"

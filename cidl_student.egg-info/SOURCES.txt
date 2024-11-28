@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+cidl_student/__init__.py
+cidl_student.egg-info/PKG-INFO
+cidl_student.egg-info/SOURCES.txt
+cidl_student.egg-info/dependency_links.txt
+cidl_student.egg-info/top_level.txt
