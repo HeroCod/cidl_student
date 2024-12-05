@@ -2,7 +2,7 @@
 name = "cidl_student"
 version = "0.1.0"
 description = "A Python project"
-dependencies = []
+dependencies = [ "torch",]
 [[project.authors]]
 name = "herocod"
 
